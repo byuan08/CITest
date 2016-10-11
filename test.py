@@ -1,6 +1,6 @@
 
 import time
-'''add docstring'''
+'''add docstring  '''
 
 def count(f):
     def inner(*args, **kargs):
