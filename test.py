@@ -1,6 +1,6 @@
 
 import time
-'''add docstrin '''
+''' add docstrin '''
 
 def count(f):
     def inner(*args, **kargs):
